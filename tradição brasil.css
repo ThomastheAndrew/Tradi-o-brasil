@@ -1,0 +1,605 @@
+#container{
+    
+    border:none;
+    background-color:yellow;
+    height:160px;
+    width:700px;
+}
+
+#titulo{
+
+    clear:both;
+    color:black;
+    font-size:50px;
+    font-family:arial;
+}
+
+#img{
+    background-position:right;
+    
+}
+
+#corpo{
+    float:left;
+    border:2px groove black;
+    background-color:black;
+    width:400px;
+    height:30px;
+}
+
+#valor{
+    float:left;
+    border:2px groove black;
+    background-color:green;
+    font-family:arial;
+    font-size:20px;
+    width:293px;
+    height:30px;
+    text-align:center;
+    color:white;
+}
+
+#pães{
+    float:left;
+    border:2px groove black;
+    background-color:black;
+    width:400px;
+    height:30px;
+    font-family:arial;
+    color:white;
+    text-align:center;
+    font-size:20px;
+
+}
+
+#precopães{
+    float:left;
+    border:2px groove black;
+    background-color:darkgray;
+    width:293px;
+    height:30px;
+}
+
+#tradicional{
+    float:left;
+    border:2px groove black;
+    background-color:white;
+    width:400px;
+    height:30px;
+    text-align:center;
+    font-size:20px;
+}
+
+#preco1{
+    border:2px groove black;
+    float:left;
+    background-color:yellow;
+    width:293px;
+    height:30px;
+    text-align:center;
+    font-size:20px;
+}
+
+#recheado{
+    border:2px groove black;
+    float:left;
+    background-color:white;
+    width:400px;
+    height:30px;
+    text-align:center;
+    font-size:20px;
+}
+
+#preco2{
+    border:2px groove black;
+    float:left;
+    background-color:yellow;
+    width:293px;
+    height:30px;
+    text-align:center;
+    font-size:20px;
+}
+
+#docedeleite{
+    border:2px groove black;
+    float:left;
+    background-color:white;
+    width:400px;
+    height:30px;
+    text-align:center;
+    font-size:20px;
+}
+
+#preco3{
+    border:2px groove black;
+    float:left;
+    background-color:yellow;
+    width:293px;
+    height:30px;
+    text-align:center;
+    font-size:20px;
+}
+
+#bufala{
+    border:2px groove black;
+    float:left;
+    background-color:black;
+    width:400px;
+    height:30px;
+    text-align:center;
+    font-size:20px;
+    color:white;
+}
+
+#bufalaw{
+    border:2px groove black;
+    float:left;
+    background-color:white;
+    width:293px;
+    height:30px;
+}
+
+#item{
+    border:2px groove black;
+    float:left;
+    background-color:darkgray;
+    width:400px;
+    height:30px;
+    text-align:center;
+    font-size:20px;
+}
+
+#itemg{
+    border:2px groove black;
+    float:left;
+    background-color:darkgray;
+    width:293px;
+    height:30px;
+}
+
+#queijomi{
+    border:2px groove black;
+    background-color:white;
+    font-family:arial;
+    font-size:20px;
+    width:400px;
+    height:30px;
+    text-align:center;
+    float:left;
+}
+
+#preco4{
+    border:2px groove black;
+    background-color:yellow;
+    text-align:center;
+    width:293px;
+    height:30px;
+    font-size:20px;
+    float:left;
+    font-size:20px;
+}
+
+#queijomip{
+    border:2px groove black;
+    background-color:white;
+    text-align:center;
+    font-family:arial;
+    width:400px;
+    height:30px;
+    float:left;
+    font-size:20px;
+}
+
+#preco5{
+    border:2px groove black;
+    background-color:yellow;
+    text-align:center;
+    width:293px;
+    height:30px;
+    float:left;
+    font-size:20px;
+}
+
+#queijomantab{
+    border:2px groove black;
+    background-color:white;
+    text-align:center;
+    width:400px;
+    height:30px;
+    float:left;
+    font-size:20px;
+    font-family:arial;
+}
+
+#preco6{
+    border:2px groove black;
+    background-color:yellow;
+    text-align:center;
+    width:293px;
+    height:30px;
+    float:left;
+    font-size:20px;
+}
+
+#queijobolab{
+    border:2px groove black;
+    background-color:white;
+    text-align:center;
+    width:400px;
+    height:30px;
+    float:left;
+    font-size:20px;
+    font-family:arial;
+}
+
+#preco7{
+    border:2px groove black;
+    background-color:yellow;
+    text-align:center;
+    width:293px;
+    height:30px;
+    font-size:20px;
+    float:left;
+}
+
+#zerolac{
+    border:2px groove black;
+    background-color:black;
+    color:white;
+    width:400px;
+    height:30px;
+    float:left;
+    font-family:arial;
+    font-size:20px;
+}
+
+#zerolacw{
+    border:2px groove black;
+    background-color:white;
+    width:293px;
+    height:30px;
+    float:left;
+}
+
+#item2{
+    border:2px groove black;
+    background-color:darkgray;
+    width:400px;
+    height:30px;
+    float:left;
+    font-family:arial;
+    font-size:20px;
+}
+
+#itemg2{
+    border:2px groove black;
+    background-color:darkgray;
+    width:293px;
+    height:30px;
+    float:left;
+}
+
+#queijomp5{
+    border:2px groove black;
+    background-color:white;
+    width:400px;
+    height:30px;
+    float:left;
+    font-family:arial;
+    font-size:20px;
+    text-align:center;
+}
+
+#preco8{
+    border:2px groove black;
+    background-color:yellow;
+    width:293px;
+    height:30px;
+    font-size:20px;
+    font-family:arial;
+    float:left;
+    text-align:center;
+}
+
+#queijomussa{
+    border:2px groove black;
+    background-color:white;
+    font-family:arial;
+    font-size:20px;
+    float:left;
+    width:400px;
+    height:30px;
+    text-align:center;
+}
+
+#preco9{
+    border:2px groove black;
+    background-color:yellow;
+    font-size:20px;
+    font-family:arial;
+    float:left;
+    width:293px;
+    height:30px;
+    text-align:center;
+}
+
+#queijost{
+    border:2px groove black;
+    background-color:black;
+    font-size:20px;
+    font-family:arial;
+    float:left;
+    width:400px;
+    height:30px;
+    text-align:center;
+    color:white;
+}
+
+#queijotb{
+    border:2px groove black;
+    background-color:white;
+    width:293px;
+    height:30px;
+    float:left;
+}
+
+#item3{
+    border:2px groove black;
+    background-color:darkgray;
+    width:400px;
+    height:30px;
+    text-align:center;
+    font-size:20px;
+    font-family:arial;
+    float:left;
+}
+
+#itemg3{
+    border:2px groove black;
+    background-color:darkgray;
+    width:293px;
+    height:30px;
+    float:left;
+}
+
+#requeijaob{
+    border:2px groove black;
+    background-color:white;
+    width:400px;
+    height:30px;
+    font-size:20px;
+    font-family:arial;
+    float:left;
+    text-align:center;
+}
+
+#preco10{
+    border:2px groove black;
+    background-color:yellow;
+    width:293px;
+    height:30px;
+    font-size:20px;
+    font-family:arial;
+    text-align:center;
+    float:left;
+}
+
+#requeijaobc{
+    border:2px groove black;
+    background-color:white;
+    width:400px;
+    height:30px;
+    font-size:20px;
+    font-family:arial;
+    text-align:center;
+    float:left;
+}
+
+#preco11{
+    border:2px groove black;
+    background-color:yellow;
+    width:293px;
+    height:30px;
+    font-size:20px;
+    float:left;
+    text-align:center;
+    font-family:arial;
+}
+
+#queijocoa{
+    border:2px groove black;
+    background-color:white;
+    width:400px;
+    height:30px;
+    text-align:center;
+    font-size:20px;
+    font-family:arial;
+    float:left;
+}
+
+#preco12{
+    border:2px groove black;
+    background-color:yellow;
+    width:293px;
+    height:30px;
+    font-size:20px;
+    font-family:arial;
+    float:left;
+    text-align:center;
+}
+
+#queijocoab{
+    border:2px groove black;
+    background-color:white;
+    text-align:center;
+    width:400px;
+    height:30px;
+    font-size:20px;
+    font-family:arial;
+    float:left;
+}
+
+#preco13{
+    border:2px groove black;
+    background-color:yellow;
+    width:293px;
+    height:30px;
+    font-size:20px;
+    text-align:center;
+    float:left;
+    font-family:arial;
+}
+
+#kit4{
+    border:2px groove black;
+    background-color:white;
+    width:400px;
+    height:30px;
+    font-size:20px;
+    text-align:center;
+    font-family:arial;
+    float:left;    
+}
+
+#preco14{
+    border:2px groove black;
+    background-color:yellow;
+    font-family:arial;
+    font-size:20px;
+    float:left;
+    text-align:center;
+    width:293px;
+    height:30px;
+}
+
+#kit{
+    border:2px groove black;
+    background-color:white;
+    font-family:arial;
+    font-size:20px;
+    width:400px;
+    height:30px;
+    float:left;
+    text-align:center;
+}
+
+#preco15{
+    border:2px groove black;
+    background-color:yellow;
+    float:left;
+    width:293px;
+    height:30px;
+    text-align:center;
+    font-family:arial;
+    font-size:20px;
+}
+
+#queijomf{
+    border:2px groove black;
+    background-color:white;
+    text-align:center;
+    float:left;
+    width:400px;
+    height:30px;
+    font-family:arial;
+    font-size:20px;
+}
+
+#preco16{
+    border:2px groove black;
+    background-color:yellow;
+    text-align:center;
+    width:293px;
+    height:30px;
+    font-size:20px;
+    float:left;
+    font-family:arial;
+}
+
+#queijomfl{
+    border:2px groove black;
+    background-color:white;
+    width:400px;
+    height:30px;
+    font-size:20px;
+    font-family:arial;
+    float:left;
+    text-align:center;
+}
+
+#preco17{
+    border:2px groove black;
+    background-color:yellow;
+    width:293px;
+    height:30px;
+    float:left;
+    text-align:center;
+    font-family:arial;
+    font-size:20px;
+}
+
+#queijompp{
+    border:2px groove black;
+    background-color:white;
+    width:400px;
+    height:30px;
+    float:left;
+    text-align:center;
+    font-family:arial;
+    font-size:20px;
+}
+
+#preco18{
+    border:2px groove black;
+    background-color:yellow;
+    float:left;
+    font-family:arial;
+    width:293px;
+    height:30px;
+    text-align:center;
+    font-size:20px;
+}
+
+#queijocana{
+    border:2px groove black;
+    background-color:white;
+    float:left;
+    font-family:arial;
+    text-align:center;
+    font-size:20px;
+    width:400px;
+    height:30px;
+}
+
+#preco19{
+    border:2px groove black;
+    background-color:yellow;
+    width:293px;
+    height:30px;
+    font-size:20px;
+    text-align:center;
+    float:left;
+    font-family:arial;
+}
+
+#queijono{
+    border:2px groove black;
+    background-color:white;
+    width:400px;
+    height:30px;
+    font-size:20px;
+    text-align:center;
+    float:left;
+    font-family:arial;
+}
+
+#preco20{
+    border:2px groove black;
+    background-color:yellow;
+    font-size:20px;
+    width:293px;
+    height:30px;
+    font-family:arial;
+    text-align:center;
+    float:left;
+}
